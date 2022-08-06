@@ -3,6 +3,7 @@
 
 ## P2D (Play to Donate)<br>
 
+<br><br>
 
 **Senior Project 블록체인 기반 실시간 기부 플랫폼**
 
