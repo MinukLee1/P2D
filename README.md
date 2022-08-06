@@ -6,7 +6,7 @@
 
 
 **Senior Project 블록체인 기반 실시간 기부 플랫폼**
-<br><br>
+<br><br><br><br>
 
 ## 프로젝트 흐름도 <br>
 ![image](https://user-images.githubusercontent.com/79950504/174436552-c50d0d72-d0a7-4ea9-9d23-18a6a634c95d.png)
