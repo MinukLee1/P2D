@@ -27,7 +27,7 @@
 - 이후 1회에 한하여 기부증서 NFT를 발급 받을 수 있다.
 
 
-<br><br>
+<br>
 
 
 ## 2. 💻 Language&Tools&API <br>
