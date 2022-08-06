@@ -41,41 +41,42 @@
 ## 3. 🛠 기능구현 <br>
 
  ![site](https://user-images.githubusercontent.com/79950091/174741740-d33d138c-4c4f-4389-8e8e-9753b62a0197.png)
-3.1 P2D transaction monitoring
+### 3.1 P2D transaction monitoring
 
 Web3.js와 JavaScript를 사용한 P2D 플랫폼 내의 donate transaction 현황을 조회 가능한 사이트를 구현하였다. Txn Hash를 클릭하여 클릭한 transaction의
 Details 조회가 가능하다.
 
 ![intro](https://user-images.githubusercontent.com/79950091/174742132-39e9f7ef-7852-43b7-a0fc-236cad3ddc41.png)
-3.2 P2D main interface
+### 3.2 P2D main interface
 
 Main interface의 Start button을 통해 Metamask로그인을 통하여 게임에 접속가능하다.
 
 ![main](https://user-images.githubusercontent.com/79950091/174742235-925d3a54-9cb5-4fe7-bebe-3d7c3da27dd4.png)
-3.3 P2D In-game interface
+### 3.3 P2D In-game interface
 
 Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰의 개수, 갤러리 형식의In-game을 통해 Play를 진행한다.
 
 ![tokendeploy](https://user-images.githubusercontent.com/79950091/174958389-61d212a9-f9c9-4a07-8ae4-71f59f2e68b1.png)
-3.4 P2D Token deploy
+### 3.4 P2D Token deploy
 
 SmartContract로 작성한 ERC-20의 토큰 minting과 
 발급 후의 transaction조회를 수행하는 동작이다.
 
 ![tokendonate](https://user-images.githubusercontent.com/79950091/174958629-dd54eaff-75d7-470f-844b-299cf112b423.png)
-3.5 P2D Token Donate
+### 3.5 P2D Token Donate
 
 SmartContract로 작성한 ERC-20 기반 토큰의 Donate와 
 Donate 후의transaction 조회를 수행하는 동작이다. 해당 Donation의 주소 정보를 Whitelist에 등록시켜    
 사용자가 다른 지갑 주소로 전송하지 못하도록 구현하였다.
 
 ![NFT](https://user-images.githubusercontent.com/79950091/174958633-524ce647-fc71-4110-8947-f3dc7ba1092e.png)
-3.6 P2D NFT Deploy
+### 3.6 P2D NFT Deploy
 
 SmartContract로 작성한 ERC-721(NFT)의 발급과 발급된 NFT정보를
 Opensea(NFT거래소)에서 확인하는 동작이다.
 NFT 발급자는 isNFT = true로 등록시켜 기부자 당 1회만 NFT발급이 가능하도록 구현하였다.
-<br><br>
+<br><br><br><br>
+
 ## 4.🧩 결론 <br>
 Unity WebGL을 통해 빌드 되었기 때문에 MetaMask로 간단한 로그인이 가능하다. 
 이후 간단한 일회성 게임을 플레이하면 그 스코어에 비례해 자체 개발한 P2D 토큰을 발급 받을 수 있다. 
