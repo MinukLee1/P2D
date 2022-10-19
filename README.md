@@ -84,5 +84,8 @@ Unity Web3GL을 통해 빌드 되었기 때문에 MetaMask로 간단한 로그�
 본 과정을 통해 기부를 진행한 사용자는 1회에 한하여 NFT 기부증서를 발급 받을 수 있다. 
 모든 기부 과정을 직접적으로 확인 가능한 트랜잭션 모니터링 사이트 역시 개발하였다. 
 기부에 있어 큰 문제로 손꼽히고 있는 “경제적 여유”, “기부 단체에 대한 신뢰성”, “기부 과정의 투명성”을 해결할 수 있을것으로 기대된다.
-<br><br>![image](https://user-images.githubusercontent.com/74412438/196713375-16c25626-4656-4bb9-be29-61fc8dd0ae53.png)
+<br><br>
+
+![image](https://user-images.githubusercontent.com/74412438/196713545-f01eda41-f1e4-493d-8a4e-f96a9ae08f5e.png)
+
 
