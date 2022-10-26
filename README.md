@@ -1,11 +1,6 @@
 ### 🏆 2022 캡스톤 디자인 경진대회 최우수상 수상      <br>
 
 <br>
-
-## P2D (Play to Donate)<br>
-
-
-**Senior Project 블록체인 기반 실시간 기부 플랫폼**
 <br><br><br><br>
 ## P2D (Play to Donate)<br>
 **블록체인 기반 실시간 기부 플랫폼** <br><br>
