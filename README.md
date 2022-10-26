@@ -7,6 +7,11 @@
 
 **Senior Project 블록체인 기반 실시간 기부 플랫폼**
 <br><br><br><br>
+## P2D (Play to Donate)<br>
+**블록체인 기반 실시간 기부 플랫폼** <br><br>
+## 시연 영상 https://youtu.be/V75_MES1wCI<br>
+## P2D Scan Site [P2D Scan](https://62aaa9bef3e87a28946e90d6--stellar-creponne-69e72f.netlify.app/)
+
 
 ## 프로젝트 흐름도 <br>
 ![image](https://user-images.githubusercontent.com/79950504/174436552-c50d0d72-d0a7-4ea9-9d23-18a6a634c95d.png)
