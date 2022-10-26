@@ -3,7 +3,7 @@
 <br>
 <br>
 ## P2D (Play to Donate)<br>
-**블록체인 기반 실시간 기부 플랫폼**
+**블록체인 기반 실시간 기부 플랫폼** <br>
 ## 시연 영상 https://youtu.be/V75_MES1wCI<br>
 ## P2D Scan Site [P2D Scan](https://62aaa9bef3e87a28946e90d6--stellar-creponne-69e72f.netlify.app/)
 
