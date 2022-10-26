@@ -2,7 +2,7 @@
 
 <br>
 <br><br>
-## P2D (Play to Donate) <br>
+## P2D (Play to Donate) 
 
 **블록체인 기반 실시간 기부 플랫폼** <br><br>
 ## 시연 영상 https://youtu.be/V75_MES1wCI<br>
